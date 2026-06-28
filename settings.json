@@ -1,5 +1,5 @@
 {
-  "name": "AFK Bot",
+  "name": "kaurnhsgufade",
   "bot-account": {
     "username": "Uoijgda",
     "password": "",
@@ -65,7 +65,7 @@
     "console-commands": false
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
