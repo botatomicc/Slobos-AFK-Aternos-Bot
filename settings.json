@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "UNKWNERD",
+    "username": "Undthof",
     "password": "",
     "type": "offline"
   },
@@ -33,7 +33,7 @@
       "messages": [
         "ola",
         ":)",
-        "I like to play Minecraft!"
+        ""
       ]
     },
     "chat-log": true,
@@ -82,6 +82,10 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond":true
+  "jsdbadjhdy"
+    "yoiungstr"
+    "piteheiufnhskty"
+  
   }
 }
