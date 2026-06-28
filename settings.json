@@ -67,6 +67,7 @@
   "combat": {
     "attack-mobs": true,
     "auto-eat": true
+    "attack-players": true
   },
   "beds": {
     "pick-up-day": false,
